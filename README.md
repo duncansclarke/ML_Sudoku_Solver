@@ -9,16 +9,21 @@ This project attempts to read a sudoku puzzle from an photograph using PyTorch a
 * sudokuSolver.py solves the interpreted sudoku puzzle using a simple backtracking algorithm
 
 Here's the photograph of the sudoku puzzle I used for testing
+<br />
 ![Example](example.png)
 
 After applying image preprocessing...
+<br />
 ![preprocessed](/Steps/8.png)
 
 Recognizing the 3 in the second tile
+<br />
 ![recognize](/Screenshots/recognizing3.png)
 
 Solving the sudoku puzzle
+<br />
 ![solved](/Screenshots/solvedSudoku.png)
 
 Original input and final output
+<br />
 ![final](/Screenshots/beforeAndAfter.png)

@@ -12,6 +12,7 @@ Here's the photograph of the sudoku puzzle I used for testing
 ![Example](example.png)
 
 After applying image preprocessing...
+
 ![preprocessed](/Steps/8.png)
 
 Recognizing the 3 in the second tile

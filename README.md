@@ -11,6 +11,7 @@ This project attempts to read a sudoku puzzle from an photograph using PyTorch a
 Here's the photograph of the sudoku puzzle I used for testing
 ![Example](example.png)
 
+
 After applying image preprocessing...
 
 ![preprocessed](/Steps/8.png)
